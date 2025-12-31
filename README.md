@@ -1,5 +1,7 @@
 # AI Generated Image Detection
 
+<b>Demo website:</b> https://huggingface.co/spaces/mysertkaya/AI-Generated-Image-Detection
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
 ![Unsloth](https://img.shields.io/badge/Unsloth-Fast_Finetuning-green)
